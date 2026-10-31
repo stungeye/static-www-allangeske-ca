@@ -20,6 +20,6 @@ Served from **Cloudflare Workers static assets** (Free plan; the largest file is
 * **Worker:** `static-www-allangeske-ca`, account `Stungeye@gmail.com's Account`.
 * **Deploy:** Workers Builds: every push to `main` deploys. No build command; deploy command `npx wrangler deploy`. Only `site/` is uploaded.
 * **Serving:** `html_handling: auto-trailing-slash` (`/blog` serves `blog.html`, `/blog.html` 307s to `/blog`). This replaces the old `.htaccess`, which 301'd extensionless URLs to `.html`. `not_found_handling: 404-page` (`site/404.html`).
-* **workers.dev:** on until the cutover. Per-version preview URLs are off.
-* **Route (since 2026-10-31):** `www.allangeske.ca/*` on zone `allangeske.ca` (moved from DigitalOcean DNS to Cloudflare the same day), over a proxied `www` record. Rollback: delete the route.
+* **workers.dev:** off since the cutover (`workers_dev: false`, 2026-10-31). Per-version preview URLs are off.
+* **Route (since 2026-10-31):** `www.allangeske.ca/*` on zone `allangeske.ca` (moved from DigitalOcean DNS to Cloudflare the same day), over a proxied `www` record (`AAAA 100::` since 2026-10-31, so the name doesn't depend on any server). Rollback: delete the route.
 * **Apex:** `allangeske.ca` 301s to `https://www.allangeske.ca` with the path and query kept, by a Single Redirect rule in the zone (not by this Worker).
