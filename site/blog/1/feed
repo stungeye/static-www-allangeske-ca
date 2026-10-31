@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.allangeske.ca"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>allan&#039;s blog</title>
+ <link>http://www.allangeske.ca/blog/1</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Price List</title>
+ <link>http://www.allangeske.ca/node/90</link>
+ <description>&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#039;http://www.allangeske.ca/sites/default/files/images/AG09 May 09.thumbnail.jpg&#039; alt=&#039;Flight&#039; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#039;http://www.allangeske.ca/node/55&#039;&gt;Flight&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;$90&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#039;http://www.allangeske.ca/sites/default/files/images/DSC04429.thumbnail.JPG&#039; alt=&#039;Boundary&#039; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#039;http://www.allangeske.ca/node/80&#039;&gt;Boundary&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;$125&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#039;http://www.allangeske.ca/sites/default/files/images/AG10 May 09.thumbnail.jpg&#039; alt=&#039;Part II&#039; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;a href=&quot;http://www.allangeske.ca/node/90&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Fri, 02 Dec 2011 04:15:55 +0000</pubDate>
+ <dc:creator>allan</dc:creator>
+ <guid isPermaLink="false">90 at http://www.allangeske.ca</guid>
+</item>
+<item>
+ <title>Allan Geske - In Plain View</title>
+ <link>http://www.allangeske.ca/node/87</link>
+ <description>&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/js3opIRF1mI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+ <pubDate>Thu, 24 Nov 2011 19:59:45 +0000</pubDate>
+ <dc:creator>allan</dc:creator>
+ <guid isPermaLink="false">87 at http://www.allangeske.ca</guid>
+</item>
+<item>
+ <title>Welcome to AllanGeske.ca</title>
+ <link>http://www.allangeske.ca/node/1</link>
+ <description>&lt;div class=&quot;image-attach-teaser image-attach-node-64&quot; style=&quot;width: 200px;&quot;&gt;&lt;a href=&quot;/node/1&quot;&gt;&lt;img src=&quot;http://www.allangeske.ca/sites/default/files/images/allan_twice.thumbnail.png&quot; alt=&quot;Allan Then and Now&quot; title=&quot;Allan Then and Now&quot;  class=&quot;image image-thumbnail &quot; width=&quot;200&quot; height=&quot;120&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+Welcome to the online presence for Allan Geske and North Nassau Printmakers.
+
+
+Feel free to explore some of &lt;a href=&quot;http://www.allangeske.ca/?q=image/tid/1&quot; title=&quot;View Prints&quot;&gt;Allan&#039;s prints&lt;/a&gt; or take a look around &lt;a href=&quot;http://www.allangeske.ca/?q=image/tid/2&quot; title=&quot;Studio Tour&quot;&gt;the studio&lt;/a&gt;.&lt;p&gt;&lt;a href=&quot;http://www.allangeske.ca/node/1&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://www.allangeske.ca/image/view/64/preview" length="218661" type="image/png" />
+ <pubDate>Thu, 19 Aug 2010 20:39:33 +0000</pubDate>
+ <dc:creator>allan</dc:creator>
+ <guid isPermaLink="false">1 at http://www.allangeske.ca</guid>
+</item>
+</channel>
+</rss>
