@@ -8,6 +8,7 @@
     "directory": "./site",
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
-  }
-  // No route yet: allangeske.ca's DNS is still at DigitalOcean. The route comes after the zone move (PLAN C5), with the owner's yes.
+  },
+  // Cutover, owner-approved 2026-10-31 once the zone moved to Cloudflare (PLAN C5). Rollback: remove this and push, or delete the route in the dashboard.
+  "routes": [{ "pattern": "www.allangeske.ca/*", "zone_name": "allangeske.ca" }]
 }
